@@ -1,2 +1,2 @@
-# LKC FES Security Workshop 23 Nov
+# IT Society Security Workshop 23 Nov
 
